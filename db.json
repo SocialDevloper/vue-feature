@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "email": "mitesh123@yopmail.com",
+      "name": "Mitesh Kadivar",
+      "password": "mitesh@123",
+      "id": 1
+    },
+    {
+      "email": "paresh123@yopmail.com",
+      "name": "Paresh Panchal",
+      "password": "paresh@123",
+      "id": 2
+    },
+    {
+      "email": "ashish123@yopmail.com",
+      "name": "Ashish Patel",
+      "password": "ashish@123",
+      "id": 3
+    },
+    {
+      "email": "dipak123@yopmail.com",
+      "name": "Dipak Patel",
+      "password": "dipak@123",
+      "id": 4
+    },
+    {
+      "email": "nikul123@yopmail.com",
+      "name": "Nikul Kadivar",
+      "password": "nikul@123",
+      "id": 5
+    },
+    {
+      "email": "chirag123@yopmail.com",
+      "name": "Chirag Patel",
+      "password": "chirag@123",
+      "id": 6
+    },
+    {
+      "email": "hiren123@yopmail.com",
+      "name": "Hiren Patel",
+      "password": "hiren@123",
+      "id": 7
+    },
+    {
+      "email": "sanjay123@yopmail.com",
+      "name": "Sanjay Patel",
+      "password": "sanjay@123",
+      "id": 8
+    },
+    {
+      "email": "kartik123@yopmail.com",
+      "name": "Kartik Kadivar",
+      "password": "kartik@123",
+      "id": 9
+    },
+    {
+      "email": "test123@yopmail.com",
+      "name": "test",
+      "password": "test@123",
+      "id": 10
+    },
+    {
+      "email": "jaykant123@gmail.com",
+      "name": "Jaykant",
+      "password": "jaykant@123",
+      "id": 11
+    },
+    {
+      "email": "ankit123@yopmail.com",
+      "name": "AnkitPatel",
+      "password": "ankit@123",
+      "id": 12
+    }
+  ]
+}
